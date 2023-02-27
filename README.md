@@ -6,14 +6,24 @@ My Tester's Portfolio
   <li>Programming languages
     <ul>
       <li>C++</li>
-      <li>Java - beginner</li>
+      <li>Java - beginner - learning in progress</li>
     </ul>
   </li>
   <li>Databases
     <ul>
-      <li>MySQL</li>
+      <li>MySQL - learning in progress</li>
   </li>
-  <li>Postman</li>
+  <li>Operating systems
+    <ul>
+      <li>Windows</li>
+    </ul>
+  </li>
+  <li>Tools supporting testing
+    <ul>
+      <li>JMeter - learning in progress</li>
+    </ul>
+  </li>
+  
 </ol>
   
 <h3> Techical books</h3>
