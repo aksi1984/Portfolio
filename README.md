@@ -17,6 +17,7 @@ My Tester's Portfolio
     <ul>
       <li>Windows</li>
     </ul>
+  <ol>
   </li>
   <li>Tools supporting testing
     <ul>
