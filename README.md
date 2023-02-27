@@ -22,6 +22,7 @@ My Tester's Portfolio
   <li>Tools supporting testing
     <ul>
       <li>JMeter - learning in progress</li>
+      <li>PageSpeed Insights</li>
     </ul>
   </li>
 </ul>
