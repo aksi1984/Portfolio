@@ -27,10 +27,10 @@ My Tester's Portfolio
 </ol>
   
 <h3> Techical books</h3>
-<ul>
+<ol>
   <li>Radosław Smilgin - <b>Zawód tester</b> - in progress</li>
   <li>Adam Roman - <b>Testowanie i jakość oprogramowania</b> - in progress</li>
-</ul>
+</ol>
 
 <h3>Testers groups</h3>
 <h3>My projects</h3>
