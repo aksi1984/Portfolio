@@ -11,7 +11,7 @@ My Tester's Portfolio
   </li>
   <li>Databases
     <ul>
-      <li>MySQL</li>
+      <li>MySQL - learning in progress</li>
     </ul>
   </li>
   <li>Operating systems
@@ -21,7 +21,7 @@ My Tester's Portfolio
   </li>
   <li>Tools supporting testing
     <ul>
-      <li>JMeter</li>
+      <li>JMeter - learning in progress</li>
     </ul>
   </li>
   
