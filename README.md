@@ -15,7 +15,9 @@ My Tester's Portfolio
     </ul>
   </li>
   <li>Operating systems
-    
+    <ul>
+      <li>Windows</li>
+    </ul>
   </li>
   <li>Tools supporting testing
     <ul>
@@ -23,6 +25,11 @@ My Tester's Portfolio
     </ul>
   </li>
   
+</ol>
+  
+<h3>Trainings</h3>
+<ol>
+  <li><b>Praktyka testowania dla początkujących testerów</b></li>
 </ol>
   
 <h3> Techical books</h3>
