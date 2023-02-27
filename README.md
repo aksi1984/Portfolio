@@ -4,25 +4,16 @@ My Tester's Portfolio
 <h3>Tools</h3>  
 <ol>
   <li>Programming languages
-    <ul>
-      <li>C++</li>
-      <li>Java - beginner - learning in progress</li>
-    </ul>
+    
   </li>
   <li>Databases
-    <ul>
-      <li>MySQL - learning in progress</li>
+    
   </li>
   <li>Operating systems
-    <ul>
-      <li>Windows</li>
-    </ul>
-  <ol>
+    
   </li>
   <li>Tools supporting testing
-    <ul>
-      <li>JMeter - learning in progress</li>
-    </ul>
+   
   </li>
   
 </ol>
