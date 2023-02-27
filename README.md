@@ -28,7 +28,7 @@ My Tester's Portfolio
   
 <h3>Trainings</h3>
 <ul>
-  <li><b>Praktyka testowania dla początkujących testerów</b></li>
+  <li>testerzy.pl - <b>Praktyka testowania dla początkujących testerów</b></li>
 </ul>
   
 <h3> Techical books</h3>
