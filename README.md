@@ -10,13 +10,17 @@ My Tester's Portfolio
     </ul>
   </li>
   <li>Databases
-    
+    <ul>
+      <li>MySQL</li>
+    </ul>
   </li>
   <li>Operating systems
     
   </li>
   <li>Tools supporting testing
-   
+    <ul>
+      <li>JMeter</li>
+    </ul>
   </li>
   
 </ol>
